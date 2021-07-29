@@ -1,0 +1,96 @@
+@font-face {
+    font-family:NotoKufiArabic-Regular ;
+    src: url(../fonts/NotoKufiArabic-Regular.ttf);
+}
+body{
+    font-family: NotoKufiArabic-Regular;
+}
+.top-nov{
+    padding: 20px 40px;
+}
+.nav-contanir  div {
+    
+    display:inline-block;
+}
+.social-nav{
+    float: left;
+}
+.p{
+    margin: 0;
+}
+.logo-name p {
+    font-weight: 300;
+    font-size: 15px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+.talp{
+    background-color: #6E0219;
+    display: inline-block;  color: #fff;  text-align: center; height: 38px;border-radius: 13px 0px 16px;
+    padding: 5px 11px; 
+}
+.talp:hover{
+ background-color: #000;
+}
+.kart1
+{
+background-color: #F0F0F0;
+height: 100%;
+}
+.kart1:hover{
+    
+    color: #fff !important;
+    border-radius: 0px 20px 0px 22px;
+    background-color: #221E1F; 
+}
+
+.icon1 {
+
+    text-align: center;
+    padding: 27px;
+}
+.icon1 i {
+    font-size: 35px;color: #6e0219; 
+}
+icon-list .icon-results__cell svg {
+    width: 32px;
+    height: 32px;
+    color: #373737;
+}
+.kart_andor{
+   
+   
+    width: 263px;
+}
+.kart_andor:hover{
+       
+    color: #fff !important;
+    border-radius: 0px 20px 0px 22px;
+    background-color: #221E1F; 
+
+}
+
+.icon{
+    text-align: center;
+    margin: 9px;
+}
+.icon i{
+    font-size: 35px;color: #6e0219 !important; 
+}
+  
+.sub{  
+    width: 88px;
+    height: 42px;
+    margin: 19px 0px auto;
+    border: 1px solid rgb(190, 182, 182);
+    color: #000;
+}
+.sub:hover{
+    background-color: #FEB423;
+    color: #000;
+    border: 1px solid #221E1F;
+    border-radius: 10px;
+    
+}
+
